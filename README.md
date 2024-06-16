@@ -1,7 +1,6 @@
 Kết quả mong đợi:
 Tệp hợp lệ với các số nguyên:
 
-less
 Sao chép mã
 Vui lòng nhập đường dẫn tới tệp:
 path/to/file.txt
@@ -12,7 +11,6 @@ path/to/file.txt
 Total: 18
 Tệp chứa các số và chuỗi không phải là số:
 
-less
 Sao chép mã
 Vui lòng nhập đường dẫn tới tệp:
 path/to/file.txt
@@ -25,7 +23,6 @@ Không thể chuyển đổi 'Abc' thành số nguyên.
 Total: 18
 Tệp không tồn tại:
 
-less
 Sao chép mã
 Vui lòng nhập đường dẫn tới tệp:
 path/to/nonexistentfile.txt
